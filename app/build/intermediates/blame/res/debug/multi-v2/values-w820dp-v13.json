@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/usr/local/google/home/akuehling/Desktop/Ex_Files_App_AndroidSDK/Solutions/Ch03/03_07/LaunchBalloons/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/usr/local/google/home/akuehling/Desktop/Ex_Files_App_AndroidSDK/Solutions/Ch03/03_07/LaunchBalloons/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
